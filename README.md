@@ -1,2 +1,2 @@
 # django-M2C
-Manage Costumers and Contracts
+Manage Customers and Contracts
